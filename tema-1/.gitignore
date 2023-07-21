@@ -1,0 +1,14 @@
+# checker files
+/cs/
+/input/
+/output/
+/valgrind_logs/
+checker.py
+
+.gdb_history
+
+# build artifacts
+*.o
+*.zip
+vgcore.*
+main

@@ -1,0 +1,13 @@
+in/
+out/
+ref/
+
+task-?/README.md
+bonus-?/README.md
+
+*.o
+*.zip
+checker
+local_checker.py
+
+.gdb_history

@@ -1,0 +1,15 @@
+# checker files
+input/
+output/
+ref/
+.config
+checker
+local_checker.py
+
+task-?/README.md
+bonus/README.md
+.gdb_history
+*.png
+
+# build artifacts
+*.o
